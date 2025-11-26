@@ -1,5 +1,5 @@
-# Create README.md file
-echo "# 🧠 Intelligent Doc RAG
+
+🧠 Intelligent Doc RAG
 
 An intelligent document retrieval-augmented generation system built with LangGraph and Groq.
 
